@@ -1,0 +1,35 @@
+
+Crystal J. Washington
+March 2017 - iOS
+March 28, 2017
+
+Number Conversions
+
+Convert the following values from Decimal to Binary, Octal & Hexadecimal.
+
+1. 321
+	- BINARY: 1010000001
+	- OCTAL: 501
+	- HEXADECIMAL: 141
+
+2. 1342
+	- BINARY: 10100111110
+	- OCTAL: 2417311
+	- HEXADECIMAL: 15E437
+
+3. 663241
+	- BINARY: 10100001111110000101
+	- OCTAL: 2417311
+	- HEXADECIMAL: 15E437
+
+Convert the following values from Hexadecimal to Binary & Decimal. 
+
+1. 14A31
+	- BINARY: 10010000101011001
+	- DECIMAL: 82609
+
+2. FFFF
+	- BINARY: 1111111010100110
+	- DECIMAL: 61140
+
+Image of work is attached. 
